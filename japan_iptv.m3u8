@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/scTEyhP.png" group-title="General",BS Asahi (720p)
+http://203.162.235.41:29108/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/scTEyhP.png" group-title="General",BS Asahi (720p)
+http://203.162.235.41:29108?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/kauowCM.png" group-title="General",BS Fuji TV (720p)
+http://203.162.235.41:22101/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/kauowCM.png" group-title="General",BS Fuji TV (720p)
+http://203.162.235.41:22101?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="General",BS Nippon TV (720p)
+http://203.162.235.41:24103/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="General",BS Nippon TV (720p)
+http://203.162.235.41:24103?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="General",BS TBS (720p)
+http://203.162.235.41:26105/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="General",BS TBS (720p)
+http://203.162.235.41:26105?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (720p)
+http://203.162.235.41:23102/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (720p)
+http://203.162.235.41:23102?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (Tokyo) (720p)
+http://203.162.235.41:15094/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (Tokyo) (720p)
+http://203.162.235.41:15094?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/8qUZ2KR.png" group-title="General",NHK BS1 (720p)
+http://203.162.235.41:20099/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/8qUZ2KR.png" group-title="General",NHK BS1 (720p)
+http://203.162.235.41:20099?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/S47zgPe.png" group-title="Undefined",NHK BSP (720p)
+http://203.162.235.41:25104/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/S47zgPe.png" group-title="Undefined",NHK BSP (720p)
+http://203.162.235.41:25104?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (576p)
+http://203.162.235.41:12091/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (576p)
+http://203.162.235.41:12091?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (720p)
+http://203.162.235.41:14093/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (720p)
+http://203.162.235.41:14093?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK World Japan (720p)
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/U0ZFkZw.png" group-title="Undefined",Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Undefined",Nippon TV (720p)
+http://203.162.235.41:16095/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Undefined",Nippon TV (720p)
+http://203.162.235.41:16095?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (540p) [Not 24/7]
+https://tbs3.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (720p)
+http://203.162.235.41:18097/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (720p)
+http://203.162.235.41:18097?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Undefined",TV Asahi (720p)
+http://203.162.235.41:17097/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Undefined",TV Asahi (720p)
+http://203.162.235.41:17097?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="Undefined",TV Tokyo (720p)
+http://203.162.235.41:19098/?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="Undefined",TV Tokyo (720p)
+http://203.162.235.41:19098?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.org
